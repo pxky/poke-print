@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "chalk-animation": "^1.6.0",
+    "gradient-string": "^2.0.2"
+  },
+  "name": "poke-print",
+  "version": "1.0.0",
+  "description": "printing stuff",
+  "main": "pprint.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "poky",
+  "license": "ISC"
+}
