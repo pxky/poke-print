@@ -1,27 +1,24 @@
-# ***poke-print***
+# ***🌌 poke-print 🌌***
 > console logging with cool colors
 
-### Installation
+### Installation 👩‍💻
 ```sh
 npm install poke-print
 ```
-### Usage
+### Usage 👩‍🦯
 ```js
-// require
+// require:
 const pprint = require('poke-print')
 
-// chalk
+// examples:
 pprint('chalk example', ['red', 'underline'])
-// gradient-string
 pprint('gradient-string example', ['instagram'])
-// chalk-animation
 pprint('chalk-animtion example', ['neon'])
 ```
 
-### Modules Used
-> [chalk](https://github.com/chalk/chalk)
-> [gradient-string](https://github.com/bokub/gradient-string)
-> [chalk-animation](https://github.com/bokub/chalk-animation)
+### Modules Used 💾
+> [chalk](https://github.com/chalk/chalk)  
+> [gradient-string](https://github.com/bokub/gradient-string)  
+> [chalk-animation](https://github.com/bokub/chalk-animation)  
 
-##### please dont ever use this
-written by poky
+🏂🏻 written by poky 🏂🏻
