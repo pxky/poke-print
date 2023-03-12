@@ -5,9 +5,7 @@
     "gradient-string": "^2.0.2"
   },
   "name": "poke-print",
-  "version": "1.0.1",
-  "description": "printing stuff",
-  "main": "pprint.js",
   "author": "poky",
+  "version": "1.0.1",
   "license": "ISC"
 }
