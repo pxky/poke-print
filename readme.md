@@ -8,7 +8,7 @@ npm install poke-print
 ### Usage
 ```js
 // require
-const {pprint} = require('poke-print')
+const pprint = require('poke-print')
 
 // chalk
 pprint('chalk example', ['red', 'underline'])
