@@ -21,4 +21,4 @@ pprint('chalk-animtion example', ['neon'])
 > [gradient-string](https://github.com/bokub/gradient-string)  
 > [chalk-animation](https://github.com/bokub/chalk-animation)  
 
-🏂🏻 written by poky 🏂🏻
+🏂🏻 written by poky :3 🏂🏻
