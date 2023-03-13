@@ -9,11 +9,11 @@ const pprint = (message, properties) => {
         console.log(`${message}`)
         return
     }
-
+	
     // evaluate properties
     let propertiesString = ''
     for (let i = 0; i < properties.length; i++) {
-        propertiesString = propertiesString.concat(`['${properties[i]}']`)
+        propertiesString = propertiesString.concat(`.${properties[i]}`)
     }
 
     // find and log with correct module and properties
